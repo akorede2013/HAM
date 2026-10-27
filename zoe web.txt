@@ -1,0 +1,11 @@
+<!DOCTYPE htmi>
+<html>
+<head>
+<tittle>page tittle <tittle>
+</head>
+<body>
+<h1>this is a Heading</h1>
+<p>this is a paragrgh.</p>
+</body>
+</centere>
+</html>
